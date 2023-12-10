@@ -21,3 +21,5 @@ Single-OS-only applications are distributed to users through downloads, often in
 ## Easy for the user to install
 
 Historically, downloaded single-OS-only applications have to be intentionally installed by the user. Depending on the OS, install format, and download origin, this can be a multi-step installation process. PWAs are streamlined. PWAs are available to anyone with a supporting browser, and are installable with a couple of clicks.
+
+Date: 2023/12/10
